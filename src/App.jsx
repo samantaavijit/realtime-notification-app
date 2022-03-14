@@ -1,9 +1,10 @@
-import Login from "./components/Login";
+import Notification from "./components/Notification";
 
 function App() {
   return (
     <div className="container">
-      <Login/>
+      {/* <Login /> */}
+      <Notification/>
     </div>
   );
 }
